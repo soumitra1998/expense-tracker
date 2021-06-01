@@ -1,0 +1,9 @@
+.add-form{
+    margin: auto;
+    text-align: center;
+    width:200px;
+}
+.add-form-control{
+    width: 200px;
+    margin:5px;
+}

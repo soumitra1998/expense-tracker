@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.base-title{
+    margin:15px;
+    padding: 5px;
+    color:rgb(231, 187, 64);
+    text-align: center;    
+}

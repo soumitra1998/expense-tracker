@@ -1,0 +1,26 @@
+.home{
+    margin: 15px;
+}
+.Modal-text{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    height: 150px;
+    width: 300px;
+    text-align: center;
+    color:black;
+    background-color: white;
+  
+}
+.Modal-text>p{
+    font-size: large;
+    font-weight: bold;
+}
+.Modal-text>Button{
+    margin: 20px;
+}
+.table-head{
+    font-size: large;
+    font-weight: bold;
+    color:red;
+}
